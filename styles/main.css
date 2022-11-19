@@ -1,0 +1,15 @@
+.layer-0 {
+    background-color: powderblue
+}
+
+Label.title {
+    font: bold 28px Arial
+}
+
+.layer-1 {
+    background-color: ivory;
+}
+
+Label.normal {
+    font: 16px Arial
+}
